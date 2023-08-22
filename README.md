@@ -25,7 +25,7 @@ After displaying file and folder names in the notepad, the terminal will automat
 
 Use this script to quickly extract and format file and folder names in a specified folder, which can be handy for various programming or organizational tasks.*
 
-ListeFichiersDossiersColler - Personal Use License
+**ListeFichiersDossiersColler - Personal Use License**
 
 Version 1.0, [22/08/2023]
 
