@@ -50,7 +50,7 @@ OR THE USE OR OTHER DEALINGS IN THE SCRIPT.
 
 ---
 
-For inquiries regarding permission to redistribute this script, please contact me
+For inquiries regarding permission to redistribute this script, please contact me Discord : lightzirconite
 
 Download V1
 
