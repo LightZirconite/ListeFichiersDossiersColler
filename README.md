@@ -51,3 +51,7 @@ OR THE USE OR OTHER DEALINGS IN THE SCRIPT.
 ---
 
 For inquiries regarding permission to redistribute this script, please contact me
+
+Download V1
+
+[](https://github.com/LightZirconite/ListeFichiersDossiersColler/releases/tag/python)
